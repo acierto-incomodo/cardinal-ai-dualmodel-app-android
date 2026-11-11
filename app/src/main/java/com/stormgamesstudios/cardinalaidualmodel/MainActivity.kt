@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
         myWebView.webViewClient = WebViewClient()
 
         // Carga la URL de la página que quieres mostrar
-        myWebView.loadUrl("https://cardinal-ai-h4rt.vercel.app")
+        myWebView.loadUrl("https://cardinal-ai-web.vercel.app")
     }
 
     // Maneja la navegación hacia atrás dentro del WebView
